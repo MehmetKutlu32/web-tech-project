@@ -3,7 +3,7 @@
 Bu proje, üniversite kampüsündeki etkinliklerin duyurulması, detaylarının incelenmesi ve yeni etkinliklerin eklenmesi için geliştirilen Kampüs Etkinlikleri web platformunun **Sprint 1 (HTML, Git ve Yayına Alma)** aşamasıdır.
 
 ## 🔗 Canlı Yayın (Vercel)
-- **Vercel Canlı URL:** `https://web-tech-project-sprint1.vercel.app` *(veya Vercel üzerinde oluşturulan canlı adresiniz)*
+- **Vercel Canlı URL:** `[https://web-tech-project-sprint1.vercel.app](https://web-tech-project-orpin.vercel.app/index.html)`
 - **GitHub Repository:** `https://github.com/MehmetKutlu32/web-tech-project`
 - **Git Etiketi (Tag):** `sprint-01`
 
